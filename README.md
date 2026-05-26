@@ -1,6 +1,4 @@
-# Python-Assignment
-
-Mystery Delivery System – FastBox
+# Mystery Delivery System – FastBox
 Overview
 
 This assignment simulates a one-day delivery operation for FastBox. Packages are assigned to the nearest delivery agent based on Euclidean distance, deliveries are simulated using direct paths, and performance metrics are calculated.
